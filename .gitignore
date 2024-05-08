@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+venv/
+
+# Plot files
+*.svg
+*.pdf
+*.png
+*.eps
