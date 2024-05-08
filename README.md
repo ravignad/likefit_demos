@@ -8,7 +8,7 @@ Open the link https://mybinder.org/v2/gh/ravignad/likefit_demos.git/latest in a 
 
 ## Links
 - Repository: https://github.com/ravignad/likefit_demos.git
-- LikeFit library: 
+- LikeFit library: https://github.com/ravignad/likefit
 
 ## Authors 
 Diego Ravignani [ITeDA](www.iteda.cnea.gov.ar).
